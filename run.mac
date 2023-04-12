@@ -1,0 +1,4 @@
+/run/verbose 1
+/tracking/verbose 0 
+
+/control/loop run_loop1.mac dummy 1 360 1 
